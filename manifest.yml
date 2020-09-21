@@ -1,0 +1,4 @@
+applications:
+    - name: cwiawcfrontend
+      path: .
+      buildpack: staticfile_buildpack
